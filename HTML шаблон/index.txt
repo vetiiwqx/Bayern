@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ua">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cute.cats.niania</title>
+</head>
+<h1>Enimen typ,</h1>
+<title>Barcelona</title>
+</body>
+</html>
+<p>Вітаю вас на офіційному сайті Барселони!
+</p>
+<img src="./picture.jpg"/>
+
